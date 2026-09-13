@@ -1,4 +1,4 @@
-# Projects
+# Joshnell Briggs Zare
 
 Welcome to my project portfolio! 👋
 
