@@ -1,0 +1,55 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="redd_cBdhEBpSkCdmv7j">
+    <mxGraphModel dx="693" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wH73WALAUGNDt27AH2-h-1" value="Ethernet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wH73WALAUGNDt27AH2-h-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="139.31" as="sourcePoint" />
+            <mxPoint x="520" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-3" value="Destination: 08:00:27:4f:5a:b0" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-4" value="Source: 0a:00:27:00:00:0b" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-5" value="Source Address: 192.168.56.1" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="40" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-6" value="Destination: 192.168.56.2" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-7" value="Type: Echo Ping Request" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="60" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-8" value="IP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-9" value="ICMP Echo Request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-10" value="14 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="55" y="140" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-11" value="20 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="140" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-12" value="40 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-13" value="74 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-14" value="Data Length: 32 bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

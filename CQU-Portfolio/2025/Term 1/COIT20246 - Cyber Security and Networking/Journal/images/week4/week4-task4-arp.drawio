@@ -1,0 +1,49 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="I-0_jJDRoW1f8zHO1ATt">
+    <mxGraphModel dx="753" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7YxWaO3nF1L-k161LlNc-1" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7YxWaO3nF1L-k161LlNc-6" target="7YxWaO3nF1L-k161LlNc-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="25" y="60" as="sourcePoint" />
+            <mxPoint x="435" y="60" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-2" value="Ethernet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-3" value="ARP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-4" value="32 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="60" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-5" value="28 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="60" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-6" value="60 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="360" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-7" value="Destination: 08:00:27:4f:5a:b0" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="140" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-8" value="Source: 0a:00:27:00:00:0b" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-9" value="Sender IP: 192.168.56.1" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="140" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-10" value="Target IP: 192.168.56.2" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="180" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-11" value="Sender MAC: 0a:00:27:00:00:0b" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7YxWaO3nF1L-k161LlNc-13" value="Target MAC: 08:00:27:4f:5a:b0" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="160" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

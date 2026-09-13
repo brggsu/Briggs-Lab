@@ -1,0 +1,58 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="redd_cBdhEBpSkCdmv7j">
+    <mxGraphModel dx="828" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wH73WALAUGNDt27AH2-h-1" value="Ethernet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" target="wH73WALAUGNDt27AH2-h-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="139.31" as="sourcePoint" />
+            <mxPoint x="520" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-3" value="Destination: MAC10" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="60" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-4" value="Source: MAC9" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-5" value="Source Address: 28.61.70.10/24" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="40" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-6" value="Destination Address: 41.85.70.10/24" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="60" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-7" value="Type: Echo Ping Request" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="60" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-8" value="IP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-10" value="14 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="55" y="140" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-11" value="20 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="140" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-12" value="40 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="140" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wH73WALAUGNDt27AH2-h-13" value="74 Bytes" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="120" width="460" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Bt5CIkc5g5zpfM-A1wBg-1" value="ICMP Echo Request" style="text;whiteSpace=wrap;fontSize=9;align=center;" parent="1" vertex="1">
+          <mxGeometry x="382.5" y="120" width="115" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="Bt5CIkc5g5zpfM-A1wBg-3" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Data Length: 32 Bytes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="383.75" y="90" width="116.25" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

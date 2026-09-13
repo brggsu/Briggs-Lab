@@ -1,0 +1,60 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="JISpNaOHvchy9HKXLxya">
+    <mxGraphModel dx="1011" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="01cz7FUbdgMb7nzBITJ0-1" target="XbJiT6EIVNqITl6_NDMw-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="01cz7FUbdgMb7nzBITJ0-1" value="PC1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="97.5" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="01cz7FUbdgMb7nzBITJ0-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Personal Laptop&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="67.5" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="01cz7FUbdgMb7nzBITJ0-11" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;IP Address:192.168.56.1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="247.5" width="160" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="01cz7FUbdgMb7nzBITJ0-15" value="MAC Address: 0a:00:27:00:00:0b" style="text;whiteSpace=wrap;fontSize=10;align=center;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="160" height="22.5" as="geometry" />
+        </mxCell>
+        <mxCell id="XbJiT6EIVNqITl6_NDMw-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="425" y="70" width="350" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="XbJiT6EIVNqITl6_NDMw-10" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;OpenWright Server&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="40" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XbJiT6EIVNqITl6_NDMw-11" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;IP Address:192.168.56.2&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="165" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-13" value="InterfaceDescription : VirtualBox Host-Only Ethernet Adapter" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="205" width="160" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-14" value="InterfaceAlias: Ethernet 2" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="177.5" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-15" value="Virtual Host-Only Network" style="text;whiteSpace=wrap;fontSize=10;align=center;" vertex="1" parent="1">
+          <mxGeometry x="230" y="115" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" target="mNWQZSSvG8lVXPSlN6HV-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="135" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-19" value="br-mng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-22" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;MAC Address: 08:00:27:4f:5a:b0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="185" width="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-25" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;MAC Address: 08:00:27:4f:5a:b0&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="165" width="120" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mNWQZSSvG8lVXPSlN6HV-27" value="eth0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="110" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
